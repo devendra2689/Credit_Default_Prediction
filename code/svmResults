@@ -1,0 +1,12 @@
+SVC with rbf kernel
+('correct prediction : ', 7926)
+('difference : ', 2074)
+('percentage accuracy : ', 79)
+SVC with sigmoid kernel
+('correct prediction : ', 6508)
+('difference : ', 3492)
+('percentage accuracy : ', 65)
+SVC with linear kernel, number of iterations = 1000
+('correct prediction : ', 5076)
+('difference : ', 4924)
+('percentage accuracy : ', 50)

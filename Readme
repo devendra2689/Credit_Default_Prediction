@@ -1,0 +1,21 @@
+Credit default prediction
+Team members:
+Kurian Jacob: 163050039
+Sandeep Subramanian: 163050036
+Devendra Verma: 163050061
+Prashanth M: 163050043
+
+Code:
+Python files:
+	1) knnClassifier.py: K-NN model
+	How to run: python knnClassifier.py
+	2) svmclassifier.py: SVM models
+	How to run: python svmclassifier.py
+	3) decision_tree.py: RandomForest model
+	How to run: python decision_tree.py
+	4) adaboost.py: Adaboost Random Forest model
+	How to run: python adaboost.py
+	5) neuralNetwork.py: Neural network model
+	How to run: python neuralNetwork.py numberOfIterations
+	
+
